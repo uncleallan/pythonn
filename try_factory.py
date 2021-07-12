@@ -27,3 +27,11 @@ print(55)
 
 print ('This was changed 12 july 2021')
 
+
+# In[3]:
+
+
+bb = 560
+print(bb)
+print(bb)
+
